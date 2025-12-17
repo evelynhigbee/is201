@@ -1,0 +1,27 @@
+      body {
+                font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+                line-height: 1.6;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+                background-color: aliceblue;
+            }
+            .img-fluid {
+                max-width: 100%;
+                height: auto;
+                display: block; 
+                margin-bottom: 20px;
+            }
+            a {
+                color: #0066cc;
+                text-decoration: none; 
+            }
+            a:hover {
+                text-decoration: underline; 
+            }
+            h1, h2, h3, p {
+                margin-top: 0;
+            }
+    p{
+        padding: 10px;
+    }
